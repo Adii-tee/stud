@@ -1,2 +1,2 @@
 # stud
-Web Application for student management.
+Web Application for student management. 
